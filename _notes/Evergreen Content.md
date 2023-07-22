@@ -1,4 +1,0 @@
----
-tags: ['stub']
----
-feature articles
